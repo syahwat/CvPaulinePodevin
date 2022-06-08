@@ -30,37 +30,37 @@ gsap . from ( "#t-scroll" , {
 
 gsap . from ( "#t-scroll3" , { 
   scrollTrigger : "#t-scroll3" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll4" , { 
   scrollTrigger : "#t-scroll4" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll5" , { 
   scrollTrigger : "#t-scroll5" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 gsap . from ( "#t-scroll6" , { 
   scrollTrigger : "#t-scroll6" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll7" , { 
   scrollTrigger : "#t-scroll7" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll8" , { 
   scrollTrigger : "#t-scroll8" ,
   opacity: 0 , duration: 5, x : 0 });
 gsap . from ( "#t-scroll9" , { 
   scrollTrigger : "#t-scroll9" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll11" , { 
   scrollTrigger : "#t-scroll11" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll10" , { 
   scrollTrigger : "#t-scroll10" ,
-  opacity: 0 , duration: 5, x : 0 });
+  opacity: 0 , duration: 3, x : 0 });
 
 gsap . from ( "#t-scroll12" , { 
   scrollTrigger : "#t-scroll12" ,
@@ -80,14 +80,14 @@ gsap.registerPlugin(TextPlugin,ScrollToPlugin, ScrollTrigger)
 
 gsap . from ( "#simul-text" , { 
   scrollTrigger : "#simul-text" ,
-  opacity: 0.8, scale: 1.5, duration: 5, x : 0 });
+  opacity: 0.8, scale: 1.5, duration: 4, x : 0 });
 gsap . from ( "#simul-text2" , { 
   scrollTrigger : "#simul-text2" ,
-  opacity: 0.8, text: "" , duration: 5, x : 0 });
+  opacity: 0.8, text: "" , duration: 4, x : 0 });
 gsap . from ( "#simul-text3" , { 
   scrollTrigger : "#simul-text3" ,
-  opacity: 0.8, scale: 1.5, duration: 5, x : 0 });
+  opacity: 0.8, scale: 1.5, duration: 4, x : 0 });
 
 gsap . from ( "#t-scroll16" , { 
   scrollTrigger : "#t-scroll16" ,
-  opacity: 0 ,scale: 1.5, duration: 5});
+  opacity: 0 ,scale: 1.5, duration: 3});
